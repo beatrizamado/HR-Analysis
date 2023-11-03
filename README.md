@@ -24,18 +24,21 @@ This project aims to identify key factors contributing to employee attrition wit
   - **Visualizations:** Employed for clear and comprehensive data representation.  
   
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Modelling Techniques:**
-  - **Stratified K-Folds:** Employed for robust model evaluation.
-  - **Neural Networks (NN):** Utilized for complex pattern recognition.
-  - **Gradient Boosting:** Applied for ensemble modeling and predictive accuracy enhancement.
-  
+  - **Stratified K-Folds:** Ensures unbiased model evaluation in cross-validation methods.
+  - **Neural Networks (NN):** Excels in capturing complex, intricate data patterns.
+  - **Gradient Boosting:** Combines weak models for enhanced predictive power.
+  - **Random Forest:** Employs decision trees for robust feature importance.
+  - **Logistic Regression:** Provides baseline probabilities for binary outcomes.
+
+
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.
 
 
 <div style="background-color: white; padding: 10px;">
   <div align="center">
-    <img src="Images/Python NBG.png" alt="Python Logo" width="80" />
-    <img src="Images/VSC NBG.png" alt="Visual Studio Code Logo" width="80" />
-    <img src="Images/Power BI NBG.png" alt="Power BI Logo" width="80" />
+    <img src="Images/Python NBG.png" alt="Python Logo" width="60" />
+    <img src="Images/VSC NBG.png" alt="Visual Studio Code Logo" width="60" />
+    <img src="Images/Power BI NBG.png" alt="Power BI Logo" width="60" />
   </div>
 </div>
 <p align="center">
