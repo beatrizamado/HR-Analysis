@@ -8,6 +8,8 @@ Find us on Linkedin:
 [![Gonçalo Eloy](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/goncaloeloy/)
 [Gonçalo Eloy's LinkedIn Profile](https://www.linkedin.com/in/goncaloeloy/)
 
+[![Gonçalo Eloy](https://img.shields.io/badge/Gon%C3%A7alo_Eloy-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/goncaloeloy/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/goncaloeloy/)
 
 
