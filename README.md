@@ -15,22 +15,25 @@ Find us on Linkedin:
 
 This project aims to identify key factors contributing to employee attrition within a company by leveraging data collected over a specific timeframe. The primary focus is on utilizing predictive models to understand and highlight influential factors associated with employee turnover.
 
-### Key Points
 
-- **Key Objective:** Uncover influential factors contributing to employee attrition.
-- **Data Exploration:** Analyze correlations, feature significance, and relevant insights.
-- **Dataset:** Utilize `HR_DS.csv` containing comprehensive employee attributes.
-- **Toolset:** Utilize R in Visual Studio for data modeling and Power BI for visual analytics.
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Key Objective:** Uncover influential factors contributing to employee attrition.
+  
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Dataset:** Utilize `HR_DS.csv` containing comprehensive employee attributes.
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Key Objective:** Uncover influential factors contributing to employee attrition.  
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Data Exploration:** Analyze correlations, feature significance, and relevant insights.  
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Dataset:** Utilize `HR_DS.csv` containing comprehensive employee attributes.  
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Modelling Techniques:**
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Data Exploration:** Analyze correlations, feature significance, and relevant insights.
+  
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Data Visualization:**
+  - **Advanced Analytics:** Utilized for in-depth data exploration.
+  - **Visualizations:** Employed for clear and comprehensive data representation.  
+  
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Modelling Techniques:**
   - **Stratified K-Folds:** Employed for robust model evaluation.
   - **Neural Networks (NN):** Utilized for complex pattern recognition.
   - **Gradient Boosting:** Applied for ensemble modeling and predictive accuracy enhancement.
-  - **Strategy:** Emphasis on feature importance analysis for insights into attrition factors.  
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.  
+  - **Strategy:** Emphasis on feature importance analysis for insights into attrition factors.
+  
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.
+
 
 ## Tools Used
 
