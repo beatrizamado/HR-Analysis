@@ -35,12 +35,12 @@ This project aims to identify key factors contributing to employee attrition wit
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.
 
 
-## Tools Used
-
 <div align="center">
   <img src="URL_TO_R_LOGO" alt="R Logo" width="100" />
   <img src="URL_TO_VISUAL_STUDIO_LOGO" alt="Visual Studio Logo" width="100" />
   <img src="URL_TO_POWER_BI_LOGO" alt="Power BI Logo" width="100" />
 </div>
-
+<p align="center">
+  <sub>Tools Used: R, Visual Studio, Power BI</sub>
+</p>
 
