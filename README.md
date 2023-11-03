@@ -43,6 +43,14 @@ This project aims to identify key factors contributing to employee attrition wit
   </div>
 </div>
 
+<p align="center">
+  <span style="background-color: white; padding: 10px;">
+    <img src="Images/Python NBG.png" alt="Python Logo" width="80" />
+    <img src="Images/VSC NBG.png" alt="Visual Studio Code Logo" width="80" />
+    <img src="Images/Power BI NBG.png" alt="Power BI Logo" width="80" />
+  </span>
+</p>
+
 
 <div align="center">
   <img src="Images/Python NBG.png" alt="Python Logo" width="100" />
