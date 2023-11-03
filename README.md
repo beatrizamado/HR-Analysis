@@ -36,11 +36,10 @@ This project aims to identify key factors contributing to employee attrition wit
 
 
 <div align="center">
-  <img src="URL_TO_R_LOGO" alt="R Logo" width="100" />
-  <img src="URL_TO_VISUAL_STUDIO_LOGO" alt="Visual Studio Logo" width="100" />
-  <img src="URL_TO_POWER_BI_LOGO" alt="Power BI Logo" width="100" />
+  <img src="Images/Python_NBG.png" alt="Python Logo" width="100" />
+  <img src="Images/VSC_NBG.png" alt="Visual Studio Code Logo" width="100" />
+  <img src="Images/Power_BI_NBG.jpg" alt="Power BI Logo" width="100" />
 </div>
 <p align="center">
-  <sub>Tools Used: R, Visual Studio, Power BI</sub>
+  <sub>Tools Used: Python, Visual Studio Code, Power BI</sub>
 </p>
-
