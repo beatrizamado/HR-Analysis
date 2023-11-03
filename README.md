@@ -9,8 +9,6 @@ Find us on Linkedin:
 [![Gonçalo Alves](https://img.shields.io/badge/Gon%C3%A7alo_Alves-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/goncaloalves/)
 [![Mariana Pereira](https://img.shields.io/badge/Mariana_Pereira-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marianapereira/)
 
-*Enterprise DataSCIENCE Bootcamp*
-
 # Employee Attrition Analysis
 
 ## Overview
@@ -24,15 +22,15 @@ This project aims to identify key factors contributing to employee attrition wit
 - **Dataset:** Utilize `HR_DS.csv` containing comprehensive employee attributes.
 - **Toolset:** Utilize R in Visual Studio for data modeling and Power BI for visual analytics.
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Key Objective:** Uncover influential factors contributing to employee attrition.
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Data Exploration:** Analyze correlations, feature significance, and relevant insights.
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Dataset:** Utilize `HR_DS.csv` containing comprehensive employee attributes.
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Key Objective:** Uncover influential factors contributing to employee attrition.  
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Data Exploration:** Analyze correlations, feature significance, and relevant insights.  
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Dataset:** Utilize `HR_DS.csv` containing comprehensive employee attributes.  
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Modelling Techniques:**
   - **Stratified K-Folds:** Employed for robust model evaluation.
   - **Neural Networks (NN):** Utilized for complex pattern recognition.
   - **Gradient Boosting:** Applied for ensemble modeling and predictive accuracy enhancement.
-  - **Strategy:** Emphasis on feature importance analysis for insights into attrition factors.
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.
+  - **Strategy:** Emphasis on feature importance analysis for insights into attrition factors.  
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.  
 
 ## Tools Used
 
