@@ -18,7 +18,7 @@ This project aims to identify key factors contributing to employee attrition wit
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Key Objective:** Uncover influential factors contributing to employee attrition.
   
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Dataset:** Utilize [HR_DS.csv](https://raw.githubusercontent.com/beatrizamado/HR-Analysis/main/HR_DS.csv) containing comprehensive employee attributes.  
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Dataset:** Utilize [`HR_DS.csv`](https://raw.githubusercontent.com/beatrizamado/HR-Analysis/main/HR_DS.csv) containing comprehensive employee attributes.    
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) **Data Exploration:** Analyze correlations, feature significance, and relevant insights.
   
