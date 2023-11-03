@@ -5,7 +5,7 @@ The following project was developed in the *Enterprise Data Science and Business
 Find us on Linkedin: 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/goncaloeloy/)
+[![Gonçalo Eloy](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/goncaloeloy/)
 
 
 
