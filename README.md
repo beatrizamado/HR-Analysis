@@ -35,6 +35,15 @@ This project aims to identify key factors contributing to employee attrition wit
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.
 
 
+<div style="background-color: white; padding: 10px;">
+  <div align="center">
+    <img src="Images/Python NBG.png" alt="Python Logo" width="80" />
+    <img src="Images/VSC NBG.png" alt="Visual Studio Code Logo" width="80" />
+    <img src="Images/Power BI NBG.png" alt="Power BI Logo" width="80" />
+  </div>
+</div>
+
+
 <div align="center">
   <img src="Images/Python NBG.png" alt="Python Logo" width="100" />
   <img src="Images/VSC NBG.png" alt="Visual Studio Code Logo" width="100" />
