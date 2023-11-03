@@ -4,10 +4,10 @@ The following project was developed in the *Enterprise Data Science and Business
 
 Find us on Linkedin: 
 
-[![Beatriz Amado](https://img.shields.io/badge/Beatriz_Amado-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beatrizamado/)
-[![Gonçalo Eloy](https://img.shields.io/badge/Gon%C3%A7alo_Eloy-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/goncaloeloy/)
-[![Gonçalo Alves](https://img.shields.io/badge/Gon%C3%A7alo_Alves-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/goncaloalves/)
-[![Mariana Pereira](https://img.shields.io/badge/Mariana_Pereira-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marianapereira/)
+[![Beatriz Amado](https://img.shields.io/badge/Beatriz_Amado-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
+[![Gonçalo Alves](https://img.shields.io/badge/Gon%C3%A7alo_Eloy-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
+[![Gonçalo Eloy](https://img.shields.io/badge/Gon%C3%A7alo_Alves-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/goncaloalves/)
+[![Mariana Pereira](https://img.shields.io/badge/Mariana_Pereira-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
 
 # Employee Attrition Analysis
 
