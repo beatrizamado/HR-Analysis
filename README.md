@@ -5,7 +5,8 @@ The following project was developed in the *Enterprise Data Science and Business
 Find us on Linkedin: 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]
-<a href="https://www.linkedin.com/in/goncaloeloy/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="100" height="100" title="LinkedIn Profile" /></a>
+[![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/goncaloeloy/)
+
 
 
 *Enterprise DataSCIENCE Bootcamp*
