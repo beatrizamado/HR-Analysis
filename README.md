@@ -32,7 +32,10 @@ This project aims to identify key factors contributing to employee attrition wit
   - **Logistic Regression:** Provides baseline probabilities for binary outcomes.
 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.  
+
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Considerations:** Final Production Code can be found [here](https://github.com/beatrizamado/HR-Analysis/blob/91229409462714ad5d2b9ebf111e42d3476cbcbc/Code/Prod%20Code%20-%2
+
 
 <div align="center" style="background-color: #f8f8f8; padding: 15px; border-radius: 5px;">
   <img src="Images/Python NBG.png" alt="Python Logo" width="50" style="margin-right: 20px;" />
