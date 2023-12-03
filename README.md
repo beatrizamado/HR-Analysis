@@ -34,7 +34,7 @@ This project aims to identify key factors contributing to employee attrition wit
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Recommendations:** Provide actionable strategies such as improved incentives, remote work options, or training programs to mitigate attrition based on our findings.  
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Considerations:** Final Production Code can be found [HR Analysis Code on GitHub](https://github.com/beatrizamado/HR-Analysis/blob/91229409462714ad5d2b9ebf111e42d3476cbcbc/Code/Prod%20Code%20-%20Final.ipynb)
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Considerations:** Final Production Code can be found in the [Code]([https://github.com/beatrizamado/HR-Analysis/blob/91229409462714ad5d2b9ebf111e42d3476cbcbc/Code/Prod%20Code%20-%20Final.ipynb](https://github.com/beatrizamado/HR-Analysis/tree/91229409462714ad5d2b9ebf111e42d3476cbcbc/Code)) folder under the file  [Prod Code - Final](https://github.com/beatrizamado/HR-Analysis/blob/91229409462714ad5d2b9ebf111e42d3476cbcbc/Code/Prod%20Code%20-%20Final.ipynb)
 
 
 
