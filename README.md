@@ -5,7 +5,7 @@ The following project was developed in the *Enterprise Data Science and Business
 Find us on Linkedin: 
 
 [![Beatriz Amado](https://img.shields.io/badge/Beatriz_Amado-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
-[![Gonçalo Alves](https://img.shields.io/badge/Gon%C3%A7alo_Alves-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
+[![Gonçalo Alves](https://img.shields.io/badge/Gon%C3%A7alo_Alves-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/goncaloamaralalves/)
 [![Gonçalo Eloy](https://img.shields.io/badge/Gon%C3%A7alo_Eloy-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/goncaloeloy/)
 [![Mariana Pereira](https://img.shields.io/badge/Mariana_Pereira-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
 
@@ -25,6 +25,7 @@ This project aims to identify key factors contributing to employee attrition wit
   
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png)  **Modelling Techniques:**
   - **Stratified K-Folds:** Ensures unbiased model evaluation in cross-validation methods.
+  - **SMOT-ENN:** Minority Oversampling and Undersmapling for imbalanced datasets
   - **Neural Networks (NN):** Excels in capturing complex, intricate data patterns.
   - **Gradient Boosting:** Combines weak models for enhanced predictive power.
   - **Random Forest:** Employs decision trees for robust feature importance.
